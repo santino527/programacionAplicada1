@@ -1,1 +1,7 @@
-
+#Hola mundo
+print("Hola mundo universitario")
+name = input("Ingrese nombre :")
+print("tu nombre es", name )
+print (type(name))
+university = input("Ingrese institución :santiago")
+print("Eres de la institución", university)
